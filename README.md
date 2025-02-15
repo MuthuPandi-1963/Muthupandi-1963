@@ -4,7 +4,7 @@
 
 I specialize in **MERN Stack, Python-Django, and .NET Full Stack Development** while also exploring **Machine Learning and Artificial Intelligence**. Passionate about coding, problem-solving, and training students in web development.
 
-![Portfolio Screenshot](https://pandi-portfolio.vercel.app/assets/portfolio-preview.png)
+![Portfolio Link]([https://pandi-portfolio.vercel.app/assets/portfolio-preview.png](https://pandi-portfolio.vercel.app/))
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Technical Trainer**
@@ -37,7 +37,7 @@ An online shopping platform using Django framework.
 
 ### 3️⃣ **React Quiz App**
 An interactive quiz app built with React, Vite, and TailwindCSS.
-🔗 [Live Demo](https://your-quiz-app.vercel.app) | 🔗 [Source Code](https://github.com/MuthuPandi-1963/React-Quiz-App)
+ 🔗 [Source Code](https://github.com/MuthuPandi-1963/React-Quiz-App)
 
 ## 📊 GitHub Stats
 ![Muthupandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuthuPandi-1963&show_icons=true&theme=radical)
