@@ -4,7 +4,7 @@
 
 I specialize in **MERN Stack, Python-Django, and .NET Full Stack Development** while also exploring **Machine Learning and Artificial Intelligence**. Passionate about coding, problem-solving, and training students in web development.
 
-🔗 [Project Link](https://pandi-portfolio.vercel.app/)
+🔗 [Portfolio Link](https://pandi-portfolio.vercel.app/)
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Technical Trainer**
 - 🌱 Learning **Machine Learning & AI**
