@@ -48,3 +48,4 @@ An interactive quiz app built with React, Vite, and TailwindCSS.
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://pandi-portfolio.vercel.app/)
 
 💡 **"Code. Build. Innovate."**
+https://chatgpt.com/share/681c4d4b-db3c-800c-8283-6bb95389f753
