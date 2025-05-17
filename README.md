@@ -47,5 +47,4 @@ An interactive quiz app built with React, Vite, and TailwindCSS.
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/MuthuPandi-1963)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://pandi-portfolio.vercel.app/)
 
-💡 **"Code. Build. Innovate."**
-https://chatgpt.com/share/681c4d4b-db3c-800c-8283-6bb95389f753
+💡 **"Code. Build. Innovate."** 
