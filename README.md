@@ -7,7 +7,7 @@ I specialize in **MERN Stack, Python-Django, and .NET Full Stack Development** w
 🔗 [Portfolio Link](https://pandi-portfolio.vercel.app/)
 🔗 [Ecommerce Link](https://tech-dev-client.vercel.app/)
 🔗 [Tutor App Link](https://tutor-app-mern.vercel.app/)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuthuPandi-1963)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Technical Trainer**
 - 🌱 Learning **Machine Learning & AI**
